@@ -1,0 +1,14 @@
+button.primary {
+	background-color: var(--primary-button-background);
+	color: var(--primary-button-foreground);
+	padding: 0.5em 1em;
+	margin: 1em;
+	border-radius: 100vw;
+	border: none;
+	font-family: 'Noto Sans JP', sans-serif;
+	transition: all 2s;
+}
+button.primary:hover {
+	cursor: pointer;
+	background-color: var(--primary-button-hover-bg);
+}

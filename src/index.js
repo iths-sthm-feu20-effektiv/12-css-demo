@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import './fonts/NotoSansJP-Medium.otf'
+// import './fonts/NotoSandJP-Bold.otf'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
